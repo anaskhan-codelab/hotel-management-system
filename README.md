@@ -63,7 +63,7 @@ A **menu-driven Java console-based Hotel Management System** that allows admins 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hotel-management-system.git
+   git clone https://github.com/anaskhan-codelab/hotel-management-system
    ```
 
 2. Navigate to the project directory:
