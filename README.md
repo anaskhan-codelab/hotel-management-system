@@ -75,13 +75,13 @@ A **menu-driven Java console-based Hotel Management System** that allows admins 
 3. Compile the program:
 
    ```bash
-   javac ProjectFinal.java
+   javac HotelManagementSystem.java
    ```
 
 4. Run the program:
 
    ```bash
-   java ProjectFinal
+   java HotelManagementSystem
    ```
 
 ---
@@ -100,7 +100,7 @@ A **menu-driven Java console-based Hotel Management System** that allows admins 
 ##  Project Structure
 
 ```
-ProjectFinal.java
+HotelManagementSystem.java
 admins.csv
 customers.csv
 rooms.csv
